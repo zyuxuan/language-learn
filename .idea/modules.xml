@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java/common-concurrent-course/common-concurrent-course.iml" filepath="$PROJECT_DIR$/Java/common-concurrent-course/common-concurrent-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/jdk8_src/jdk8_src.iml" filepath="$PROJECT_DIR$/Java/jdk8_src/jdk8_src.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/language-learn.iml" filepath="$PROJECT_DIR$/.idea/language-learn.iml" />
     </modules>
   </component>
